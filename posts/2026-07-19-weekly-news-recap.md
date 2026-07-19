@@ -1,45 +1,39 @@
 # Weekly News Recap — July 13–19, 2026
 
-*A brief, neutral summary of the most important U.S. and world stories from the past week.*
+## U.S. News
+
+**1. US-Iran Conflict Escalates**
+The U.S. completed its 8th night of airstrikes on Iran this week after Iranian forces attacked ships in the Strait of Hormuz and killed 2 American soldiers. A preliminary ceasefire deal collapsed on July 8 when Trump declared it "over," and both sides have since widened attacks with no sign of de-escalation. Commercial ship transit through the Strait — normally ~110 ships/day — has dropped sharply.
+
+**2. Senator Lindsey Graham Dies at 71**
+Republican Senator Lindsey Graham of South Carolina died this week at 71, marking a significant shift in the GOP Senate caucus. Senate Minority Leader Mitch McConnell was also hospitalized after a fall.
+
+**3. Wildfire Smoke Blankets Midwest and Northeast**
+Massive wildfires in Canada and Minnesota sent hazardous air quality alerts across a wide swath of the U.S. this week, with millions exposed to dangerous smoke levels in the Midwest and East Coast.
+
+**4. ICE Shooting Sparks Protests; Medicaid Data Misuse Revealed**
+ICE paused non-urgent vehicle stops after two fatal shootings in under a week, including the killing of Mexican father Lorenzo Salgado Araujo in Houston. Separately, court filings revealed Medicaid officials improperly shared data on millions of Americans with ICE, which then shared it with Palantir.
+
+**5. Trump Raises Election Integrity Concerns Ahead of Midterms**
+President Trump gave a primetime address sowing doubt about U.S. election integrity and calling on Republicans to pass tighter federal voting rules ahead of November's midterm elections.
+
+**6. Congressman Detained by Israeli Settlers in West Bank**
+Rep. Ro Khanna (D-CA) was briefly detained by armed Israeli settlers in the Occupied West Bank, drawing sharp condemnation from Democrats and international observers.
+
+## World News
+
+**7. FIFA World Cup Final: Spain vs. Argentina**
+The 2026 World Cup final is set for Sunday in East Rutherford, N.J., pitting Spain against Argentina. Fans flooded Buenos Aires after Argentina came from behind to beat England 2-1 in the semifinal.
+
+**8. Russian Strikes Hit Ukraine's Sumy and Odesa**
+Emergency crews battled fires and searched damaged buildings across Ukraine after Russian strikes on Sumy and Odesa killed at least 6 people and injured 20 more this week.
+
+**9. Bangkok Music Bar Fire Kills 30+**
+A flash fire at a Bangkok music bar claimed more than 30 lives, including four of the six core members of the band performing when the blaze broke out.
+
+**10. Spain and Gibraltar Remove Border Fence**
+Spain and the British territory of Gibraltar dismantled their shared border fence under a landmark EU-UK treaty, with residents celebrating as passport checks shifted to the airport and port.
 
 ---
 
-## 🇺🇸 U.S. News
-
-**1. U.S.-Iran War Escalates — 8th Night of Strikes**
-The U.S. completed its eighth consecutive night of strikes on Iran after an Iranian attack killed two American soldiers. Fighting over the Strait of Hormuz has pushed both countries toward all-out war, with U.S. strikes now expanding to northern Iran, targeting bridges and power stations. Gas prices have surged ~34% since the conflict began, reaching nearly $4/gallon nationally.
-
-**2. Medicaid Data Improperly Shared with ICE and Palantir**
-New court filings reveal that Medicaid officials improperly shared data on millions of Americans with ICE, which then passed it to data analytics firm Palantir — raising serious privacy and civil liberties concerns.
-
-**3. Wildfire Smoke Blankets Midwest and East Coast**
-Wildfires burning in Canada and Minnesota have driven air quality to dangerous levels across a wide swath of the country, prompting health alerts for millions of residents.
-
-**4. Andrew Tate Arrested on Extradition Warrant**
-Andrew Tate and his brother were taken into custody on a sealed warrant as British prosecutors seek their extradition on rape and human trafficking charges.
-
-**5. Immigration Numbers Fall Sharply**
-Net international migration into the U.S. is projected to drop to just 321,000 for 2026, down from 2.7 million two years ago — a steep decline with measurable drag on GDP growth (estimated –0.1 to –0.3 percentage points).
-
----
-
-## 🌍 World News
-
-**6. Strait of Hormuz Near-Blockade Threatens Global Shipping**
-Commercial traffic through the Strait of Hormuz has collapsed from ~110 ships per day to just ~13, as U.S. and Iranian forces continue trading strikes. Diplomatic talks over Iran's nuclear program have stalled amid the conflict.
-
-**7. Qatar in National Mourning After Death of Former Emir**
-Leaders from Europe, Africa, and Asia traveled to Doha to pay respects following the death of Sheikh Hamad bin Khalifa Al Thani, who ruled Qatar from 1995 to 2013.
-
-**8. Ukraine Honored at Bastille Day Parade in Paris**
-President Zelenskyy joined Macron and European leaders at France's Bastille Day parade, which featured a prominent Ukrainian military presence as a show of Western solidarity.
-
-**9. U.S.-China Tech Competition Intensifies**
-American export restrictions have accelerated China's push to build its own advanced technology ecosystem, deepening the strategic rivalry between the world's two largest economies.
-
-**10. FIFA World Cup 2026 Final: Argentina vs. Spain**
-Argentina and Spain met in the World Cup final at New York/New Jersey Stadium on July 19 — the first time the two powerhouses have faced off in a World Cup final, drawing massive global audiences.
-
----
-
-*Compiled automatically every Sunday. Sources: CBS News, CNN, NPR, Fox News, FIFA.*
+*Sources: CBS News, CNN, NPR, Al Jazeera, Wikipedia*
