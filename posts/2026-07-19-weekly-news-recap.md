@@ -1,39 +1,48 @@
-# Weekly News Recap — July 13–19, 2026
+# Weekly News Recap: July 13–19, 2026
 
-## U.S. News
-
-**1. US-Iran Conflict Escalates**
-The U.S. completed its 8th night of airstrikes on Iran this week after Iranian forces attacked ships in the Strait of Hormuz and killed 2 American soldiers. A preliminary ceasefire deal collapsed on July 8 when Trump declared it "over," and both sides have since widened attacks with no sign of de-escalation. Commercial ship transit through the Strait — normally ~110 ships/day — has dropped sharply.
-
-**2. Senator Lindsey Graham Dies at 71**
-Republican Senator Lindsey Graham of South Carolina died this week at 71, marking a significant shift in the GOP Senate caucus. Senate Minority Leader Mitch McConnell was also hospitalized after a fall.
-
-**3. Wildfire Smoke Blankets Midwest and Northeast**
-Massive wildfires in Canada and Minnesota sent hazardous air quality alerts across a wide swath of the U.S. this week, with millions exposed to dangerous smoke levels in the Midwest and East Coast.
-
-**4. ICE Shooting Sparks Protests; Medicaid Data Misuse Revealed**
-ICE paused non-urgent vehicle stops after two fatal shootings in under a week, including the killing of Mexican father Lorenzo Salgado Araujo in Houston. Separately, court filings revealed Medicaid officials improperly shared data on millions of Americans with ICE, which then shared it with Palantir.
-
-**5. Trump Raises Election Integrity Concerns Ahead of Midterms**
-President Trump gave a primetime address sowing doubt about U.S. election integrity and calling on Republicans to pass tighter federal voting rules ahead of November's midterm elections.
-
-**6. Congressman Detained by Israeli Settlers in West Bank**
-Rep. Ro Khanna (D-CA) was briefly detained by armed Israeli settlers in the Occupied West Bank, drawing sharp condemnation from Democrats and international observers.
-
-## World News
-
-**7. FIFA World Cup Final: Spain vs. Argentina**
-The 2026 World Cup final is set for Sunday in East Rutherford, N.J., pitting Spain against Argentina. Fans flooded Buenos Aires after Argentina came from behind to beat England 2-1 in the semifinal.
-
-**8. Russian Strikes Hit Ukraine's Sumy and Odesa**
-Emergency crews battled fires and searched damaged buildings across Ukraine after Russian strikes on Sumy and Odesa killed at least 6 people and injured 20 more this week.
-
-**9. Bangkok Music Bar Fire Kills 30+**
-A flash fire at a Bangkok music bar claimed more than 30 lives, including four of the six core members of the band performing when the blaze broke out.
-
-**10. Spain and Gibraltar Remove Border Fence**
-Spain and the British territory of Gibraltar dismantled their shared border fence under a landmark EU-UK treaty, with residents celebrating as passport checks shifted to the airport and port.
+A brief, scannable summary of the most important U.S. and world news stories from the past week.
 
 ---
 
-*Sources: CBS News, CNN, NPR, Al Jazeera, Wikipedia*
+## U.S. News
+
+**1. U.S.-Iran War Enters Second Week**
+The U.S. conducted seven consecutive nights of airstrikes on Iran, targeting IRGC infrastructure; two American service members were killed and one went missing after Iranian attacks in Jordan, and Iran threatened a "full-scale offensive" if strikes continue.
+
+**2. American Service Member Killed in Iraq**
+A U.S. service member was killed in Iraq by Iranian-backed forces, marking the first confirmed U.S. combat fatality in the resumed conflict as proxy attacks spread across the region.
+
+**3. Medicaid Data Improperly Shared With ICE and Palantir**
+Court filings revealed that Medicaid officials unlawfully shared health data on millions of Americans with ICE, which then passed it to data analytics firm Palantir — raising major privacy and due-process concerns.
+
+**4. Andrew Tate Arrested in Miami**
+Influencer Andrew Tate and his brother Tristan were arrested in Miami after British authorities issued 38 new charges and filed for extradition.
+
+**5. Wildfire Smoke Blankets Much of the U.S.**
+Smoke from large wildfires in Canada and Minnesota spread across the country, driving air quality to record-low levels and creating health hazards for millions of people.
+
+**6. Cuban Dissident Artist Arrives in Miami**
+Artist and musician Luis Manuel Otero Alcántara landed in Miami after Cuba released him from a five-year prison sentence, on the condition that he leave the country.
+
+---
+
+## World News
+
+**7. Spain Wins 2026 FIFA World Cup**
+Spain defeated Argentina in extra time thanks to a Ferran Torres goal, claiming their second World Cup title after an extraordinary defensive campaign in which they conceded only one goal across the entire tournament.
+
+**8. Andy Burnham Becomes UK Prime Minister**
+Former Manchester Mayor Andy Burnham was declared Labour Party leader and became Britain's new prime minister — the country's seventh in a decade — after Keir Starmer was forced out by a party rebellion.
+
+**9. Russia Launches Mass Drone and Missile Attack on Ukraine**
+Russia fired 41 missiles and 125 attack drones across Ukraine in a single overnight assault, continuing its sustained military campaign against Ukrainian cities and infrastructure.
+
+**10. Iran Widens Regional Attacks; Qatar and Kuwait Targeted**
+As U.S.-Iran hostilities escalated, Iranian forces struck Qatar and Kuwait, widening the conflict beyond Iran's immediate neighbors and drawing the Gulf states deeper into the crisis.
+
+**11. Earthquake Kills at Least 5 in Peru's Andes**
+A magnitude 5.5 earthquake struck Peru's Andes region, killing at least five people and displacing hundreds more after homes and a church collapsed.
+
+---
+
+*Sources: CBS News, CNN, Fox News, NPR, Al Jazeera, PBS NewsHour, ABC News, The Hill*
